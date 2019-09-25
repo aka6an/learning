@@ -1,1 +1,1 @@
-Sample Voting App
+Deploy Docker sample voting app on Kubernetes
